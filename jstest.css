@@ -1,0 +1,18 @@
+p{
+	color: red;
+}
+
+#prd{
+	border: 1px black solid;
+	height: 200px;
+	width: 50%;
+	background-color: powderblue;
+	display: none;
+}
+
+.bouton
+{
+   text-align: center;
+   width: 20px;
+   height: 20px;
+}
